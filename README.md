@@ -5,14 +5,7 @@ Homebrew tap for [dex](https://github.com/speculatingwook/dex) — a side-by-sid
 ## Install
 
 ```bash
-brew tap speculatingwook/dex
-brew install --cask dex
-```
-
-Or in one command:
-
-```bash
-brew install --cask speculatingwook/dex/dex
+brew install --no-quarantine --cask speculatingwook/dex/dex
 ```
 
 ## Update
